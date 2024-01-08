@@ -127,6 +127,9 @@
                         <outlet property="MyGroupID" destination="4yY-yG-pcq" id="Ers-5j-0IS"/>
                         <outlet property="MyLastName" destination="Gvh-SB-Lv8" id="RnG-Sr-IMy"/>
                         <outlet property="MyName" destination="FRa-zW-Jyy" id="KEI-Vk-fYk"/>
+                        <outlet property="groupIdButton" destination="TWv-Ue-auy" id="u4S-dP-Hmw"/>
+                        <outlet property="lastnameButton" destination="yKX-0t-aVf" id="fpx-Aj-krf"/>
+                        <outlet property="nameButton" destination="MDO-eB-xU5" id="cUw-Ec-ZwG"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
